@@ -2,7 +2,7 @@
   "data": [
  {
    "url": "https://1545u.live/?lan=mmg&ht=1",
-   "script": "<script src='https://1545u.live/?api=1&lan=mmg&ht=1' type='text/javascript' async=''></script>"
+   "script": "https://1545u.live/?api=1&lan=mmg&ht=1"
  }
   ]
 }
